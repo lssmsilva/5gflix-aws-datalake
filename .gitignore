@@ -1,0 +1,18 @@
+# Dados (grandes demais para o GitHub e de terceiros)
+*.csv
+*.csv.gz
+*.parquet
+
+# Credenciais e segredos
+.env
+*.pem
+*.key
+credentials
+.aws/
+
+# Material de aula / arquivos de trabalho
+*.pptx
+*.docx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
